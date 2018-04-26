@@ -1,0 +1,1 @@
+Compile each of GridTest.cpp and GridTestString.cpp separately.

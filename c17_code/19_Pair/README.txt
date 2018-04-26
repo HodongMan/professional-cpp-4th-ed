@@ -1,0 +1,1 @@
+Visual C++ 2017 does not support template parameter deduction for constructors yet.
